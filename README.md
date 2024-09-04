@@ -64,4 +64,8 @@ The code for this can be found in the `routes/api.php` file.
 
 #### Sample Responses Screenshots
 1. Fetching User with Related Order and Products
+    ![Screenshot from 2024-09-04 16-26-14](https://github.com/user-attachments/assets/32a96308-7daf-4741-bff6-89a83768be3a)
 2. When It Is Refreshed
+   ![Screenshot from 2024-09-04 16-24-56](https://github.com/user-attachments/assets/44cc84d3-8229-4aaf-9d12-44c2ee596951)
+
+   Observe how Porducts are missing now and also all other columns that were not previously fetched are now in the refreshed model instance.
